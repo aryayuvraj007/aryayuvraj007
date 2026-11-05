@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me:
 🔭 I’m currently working on building web development projects and exploring AI-powered applications.<br><br>👯 I’m looking to collaborate on open-source projects, Python applications, web development, and AI/ML projects.<br><br>🤝 I’m looking for help with machine learning, deep learning, and building practical AI projects.<br><br>🌱 I’m currently learning Python, Data Structures & Algorithms, AI/ML, and modern web development.<br><br>💬 Ask me about Python, C++, HTML, CSS, JavaScript, Git, GitHub, and beginner-friendly tech projects.<br><br>⚡ Fun fact: I’m a CSE student who wants to explore both the world of AI and the mysteries of the universe! 🌌
 
 
